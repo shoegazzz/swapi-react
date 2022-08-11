@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/swapi-react.github.io/static/js/main.1865f2c5.js",
-    "index.html": "/swapi-react.github.io/index.html",
-    "main.1865f2c5.js.map": "/swapi-react.github.io/static/js/main.1865f2c5.js.map"
+    "main.js": "/swapi-react/static/js/main.1865f2c5.js",
+    "index.html": "/swapi-react/index.html",
+    "main.1865f2c5.js.map": "/swapi-react/static/js/main.1865f2c5.js.map"
   },
   "entrypoints": [
     "static/js/main.1865f2c5.js"
