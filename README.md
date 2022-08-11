@@ -1,6 +1,6 @@
 # Star Wars Characters / SWAPI API
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Using API from [SWAPI](https://pipedream.com/apps/swapi).
-To see this project in action, go to Demo Star Wars
+To see this project in action, go to [Demo Star Wars](https://shoegazzz.github.io/swapi-react/)
 ## Getting Started
 Clone this repo : `git clone https://github.com/shoegazzz/swapi-react.git`
 Navigate to the root folder and install all dependencies :
