@@ -22,7 +22,7 @@ export const App = () => {
     <ThemeProvider theme={customTheme}>
       <PeopleProvider>
         <Routes>
-          <Route path="/" element={<MainPage />} />
+          <Route path="/swapi-react" element={<MainPage />} />
           <Route path="/person" element={<PersonPage />} />
         </Routes>
       </PeopleProvider>

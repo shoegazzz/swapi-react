@@ -19,7 +19,7 @@ const PersonPage = () => {
     useContext(PeopleContext);
   const navigate = useNavigate();
 
-  const goToHomePage = () => navigate("/");
+  const goToHomePage = () => navigate("/swapi-react");
 
   const HandleClickBackToHomePage = () => {
     goToHomePage();
